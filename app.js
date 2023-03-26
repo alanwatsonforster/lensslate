@@ -1,8 +1,8 @@
 ////////////////////////////////////////////////////////////////////////////////
 
-// Copyright © 2016, 2018, 2022 Alan WF
+// Copyright © 2016, 2018, 2022 Alan Watson Forster
 // 
-// alanwf@alanwf.com
+// alanwatsonforster@gmail.com
 //
 // This file is part of Lens Slate.
 // 

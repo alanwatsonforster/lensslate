@@ -8,8 +8,8 @@ When you use a _manual_ lens, this information is not recorded. Later, you might
 
 Lens Slate helps you keep track of this information.
 
-* [Home Page](https://alanwf.com/lensslate/index.html)
-* [News](https://alanwf.com/lensslate/news.html)
-* [Manual](https://alanwf.com/lensslate/manual.html)
-* [FAQ](https://alanwf.com/lensslate/faq.html)
-* Support Email: [lensslate@alanwf.com](mailto:lensslate@alanwf.com).
+* [Home Page](https://alanwatsonforster.org/lensslate/index.html)
+* [News](https://alanwatsonforster.org/lensslate/news.html)
+* [Manual](https://alanwatsonforster.org/lensslate/manual.html)
+* [FAQ](https://alanwatsonforster.org/lensslate/faq.html)
+* Support Email: [lensslate@alanwatsonforster.org](mailto:lensslate@alanwatsonforster.org).

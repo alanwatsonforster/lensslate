@@ -64,7 +64,7 @@ open it and the network is available.
 
 ## How can I get support for Lens Slate?
 
-  You can send email to [lensslate@alanwf.com](mailto:lensslate@alanwf.com).
+  You can send email to [lensslate@alanwatsonforster.org](mailto:lensslate@alanwatsonforster.org).
   
 <hr/>
 
@@ -155,4 +155,4 @@ It is possible for a web app to generate a screenshot, but a web app can't save 
   
 <hr/>
 
-© 2016, 2018 [Alan WF](https://alanwf.com/)
+© 2016, 2018 [Alan Watson Forster](https://alanwatsonforster.org/)
