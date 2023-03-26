@@ -18,7 +18,7 @@ _2020 September 3_
 
 <hr/>
 
-Copyright © 2016, 2018, 2022 [Alan WF](https://alanwf.com/)
+Copyright © 2016, 2018, 2022 [Alan Watson Forster](https://alanwatsonforster.org/)
 
   Permission is granted to copy, distribute and/or modify this document
   under the terms of the GNU Free Documentation License, Version 1.3
@@ -261,7 +261,7 @@ example, [exiftool](https://exiftool.org/) or the [Lens Tagger plugin](https://w
 ## Support
 
 If you've run across a problem or have a suggestion, please send email to
-[lensslate@alanwf.com](mailto:lensslate@alanwf.com).
+[lensslate@alanwatsonforster.org](mailto:lensslate@alanwatsonforster.org).
 
 
 <hr/>
@@ -278,7 +278,7 @@ This manual is free documentation licensed under the [GFDLv1.3 license](COPYING-
 <a name="credits"></a>
 ## Credits
 
-Lens Slate was written by [Alan WF](https://alanwf.com/).
+Lens Slate was written by [Alan Watson Forster](https://alanwatsonforster.org/).
 
 Thanks to
 [Tom](https://www.dpreview.com/members/5894939503/overview),
@@ -288,5 +288,5 @@ Thanks to
 
 <hr/>
 
-© 2016, 2018, 2022 [Alan WF](https://alanwf.com/)
+© 2016, 2018, 2022 [Alan Watson Forster](https://alanwatsonforster.org/)
 

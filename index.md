@@ -7,7 +7,7 @@
 * [News](news.html)
 * [Manual](manual.html)
 * [FAQ](faq.html)
-* Support Email: [lensslate@alanwf.com](mailto:lensslate@alanwf.com).
+* Support Email: [lensslate@alanwatsonforster.org](mailto:lensslate@alanwatsonforster.org).
 
 <hr/>
 
@@ -61,4 +61,4 @@ example, [exiftool](https://exiftool.org/) or the [Lens Tagger plugin](https://w
 
 <hr/>
 
-© 2016, 2018 [Alan WF](https://alanwf.com/)
+© 2016, 2018 [Alan Watson Forster](https://alanwatsonforster.org/)

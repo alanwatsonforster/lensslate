@@ -49,7 +49,7 @@ install-with-prefix: all FILES
 	@echo "########################################################################"
 	@echo "# Installing to PREFIX \"$(PREFIX)\"".
 	@echo "########################################################################"
-	rsync -vp --files-from=FILES --delete ./ alanwf.com:alanwf.com/$(PREFIX)/
+	rsync -vp --files-from=FILES --delete ./ alanwatsonforster@alanwatsonforster.org:alanwatsonforster.org/$(PREFIX)/
 	@echo "########################################################################"
 	
 index.html: index.md HEADER.md FOOTER.md
